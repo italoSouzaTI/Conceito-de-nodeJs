@@ -21,7 +21,7 @@ Foi possível também testa o código, para ver se estava no padrão da rocketSe
   #clone repositório
   $ git clone https://github.com/italoSouzaTI/Conceito-de-nodeJs.git
   #Entrando no diretório
-  $ cd Conceito-de-nodeJs
+  $ cd Conceito de nodeJs
 ```
 
 2º - Depois, abra ele em seu editor, é no terminal do seu editor ou no cmd dentro da pasta do arquivo, digite:
