@@ -6,6 +6,7 @@
   - [Sobre](#-Desafio-conceito-NodeJs)
   - [Como baixar](#-Como-baixar-o-projeto)
   - [Tecnologias](#-Tecnologias-utilizadas)
+  - [Contato](#-Contato)
 
 <h1 aling="center"> Desafio conceito NodeJs </h1>
 
@@ -49,3 +50,9 @@ Execultando teste do código:
 |uuidv4      |**^6.0.7** |
 |nodemon -D     |**^2.0.2** |
 
+**Desenvolvido [RocketSeat](https://github.com/Rocketseat/bootcamp-gostack-desafios)**
+
+#### Contato
+📫 **italoasouzat.i@gmail.com**
+
+By 📱💻❤ **Ítalo Araújo Souza**
